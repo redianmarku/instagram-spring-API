@@ -21,13 +21,13 @@ Before running this application, make sure you have the following installed:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/instagram-backend.git
+    git clone https://github.com/redianmarku/instagram-spring-API
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd instagram-backend
+    cd instagram-spring-API
     ```
 
 3. Configure your database in `application.properties` or `application.yml`.
